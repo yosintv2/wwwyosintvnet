@@ -452,13 +452,14 @@
         // 'block md:hidden' ensures it only displays on mobile screens (up to 768px).
         adContainer.className = 'my-5 text-center block md:hidden'; 
         adContainer.innerHTML = `
-            <!-- Mobile Interleaved Ad Slot (8312762641) -->
-            <ins class="adsbygoogle"
-                 style="display:block"
+                 <!-- 320x50 -->
+                 <ins class="adsbygoogle"
+                 style="display:inline-block;width:320px;height:50px"
                  data-ad-client="ca-pub-5525538810839147"
-                 data-ad-slot="8312762641" 
-                 data-ad-format="auto"
-                 data-full-width-responsive="true"></ins>
+                 data-ad-slot="8381900703"></ins>
+                 <script>
+                 (adsbygoogle = window.adsbygoogle || []).push({});
+                 </script>
         `;
         return adContainer;
     }
