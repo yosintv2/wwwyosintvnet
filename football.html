@@ -230,13 +230,7 @@
         // 'block md:hidden' ensures it only displays on mobile screens (up to 768px).
         // Added flex justify-center to properly center the fixed 320px ad.
         adContainer.className = 'my-5 flex justify-center block md:hidden'; 
-        adContainer.innerHTML = `
-            <!-- Mobile Interleaved Ad Slot (320x50 - 8381900703) -->
-            <ins class="adsbygoogle"
-                 style="display:inline-block;width:320px;height:50px"
-                 data-ad-client="ca-pub-5525538810839147"
-                 data-ad-slot="8381900703"></ins>
-        `;
+        adContainer.innerHTML = ` `;
         return adContainer;
     }
 
