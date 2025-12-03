@@ -137,7 +137,7 @@
         font-weight: 600;
         color: #4b5563; /* Light Mode Text Color */
         margin-bottom: 4px;
-        letter-spacing: 0.025em;
+        letter-spacing: 0.05em;
     }
 
     /* Dark Mode Local Time Styling */
