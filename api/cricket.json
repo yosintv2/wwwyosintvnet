@@ -6,7 +6,7 @@
   "team1_logo": "https://aimages.willow.tv/teamLogos/newzealand.png",
   "team2": "West Indies",
   "team2_logo": "https://aimages.willow.tv/teamLogos/westindies.png",
-  "start": "2025-12-05T07:00:00+09:00",
+  "start": "2025-12-06T07:00:00+09:00",
   "details_url": "https://blog.cricfoot.net/?yosintv=newzealand",
   "duration": 10
 },
@@ -26,20 +26,20 @@
   "team1_logo": "https://aimages.willow.tv/teamLogos/australia.png",
   "team2": "England",
   "team2_logo": "https://aimages.willow.tv/teamLogos/england.png",
-  "start": "2025-12-05T13:00:00+09:00",
+  "start": "2025-12-06T13:00:00+09:00",
   "details_url": "https://blog.cricfoot.net/?yosintv=england",
   "duration": 10
 },
 
-  {
-    "team1": "Gulf Giants",
-    "team1_logo": "https://aimages.willow.tv/teamLogos/gulfgiants.png",
-    "team2": "MI Emirates",
-    "team2_logo": "https://aimages.willow.tv/teamLogos/miemirates.png",
-    "start": "2025-12-04T23:30:00+09:00",
-    "details_url": "https://blog.cricfoot.net/?yosintv=ilt20",
-    "duration": 5
-  },
+{
+  "team1": "Desert Vipers",
+  "team1_logo": "https://aimages.willow.tv/teamLogos/desertvipers.png",
+  "team2": "Abu Dhabi Knight",
+  "team2_logo": "https://aimages.willow.tv/teamLogos/abudhabiknight.png",
+  "start": "2025-12-05T23:30:00+09:00",
+  "details_url": "https://blog.cricfoot.net/?yosintv=ilt20",
+  "duration": 5
+},
 
 {
   "team1": "Janakpur Bolts",
