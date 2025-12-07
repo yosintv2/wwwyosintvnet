@@ -11,12 +11,82 @@
         },
 
         {
+            "team1": "Elche",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10268.png",
+            "team2": "Girona FC",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
+            "start": "2025-12-07T22:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=girona",
+            "duration": 2
+        },
+
+        {
+            "team1": "Cagliari",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
+            "team2": "Roma",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+            "start": "2025-12-07T23:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=roma",
+            "duration": 2
+        },
+
+        {
             "team1": "Fulham",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
             "team2": "Crystal Palace",
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
             "start": "2025-12-08T01:30:00+09:00",
             "details_url": "https://blog.cricfoot.net/?yosintv=fulham",
+            "duration": 2
+        },
+
+        {
+            "team1": "Valencia",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
+            "team2": "Sevilla",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8302.png",
+            "start": "2025-12-08T00:15:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=sevilla",
+            "duration": 2
+        },
+
+        {
+            "team1": "Espanyol",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
+            "team2": "Rayo Vallecano",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8370.png",
+            "start": "2025-12-08T02:30:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=espanyol",
+            "duration": 2
+        },
+
+        {
+            "team1": "Real Madrid",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
+            "team2": "Celta Vigo",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9910.png",
+            "start": "2025-12-08T05:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=realmadrid",
+            "duration": 2
+        },
+
+        {
+            "team1": "Dortmund",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+            "team2": "Hoffenheim",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8226.png",
+            "start": "2025-12-08T01:30:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=dortmund",
+            "duration": 2
+        },
+
+        {
+            "team1": "Napoli",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+            "team2": "Juventus",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
+            "start": "2025-12-08T04:45:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=napoli",
             "duration": 2
         }
     ]
