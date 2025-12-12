@@ -28,6 +28,36 @@
             "start": "2025-12-13T23:30:00+09:00",
             "details_url": "https://blog.cricfoot.net/?yosintv=ilt20",
             "duration": 5
+        },
+
+        {
+            "team1": "Sri Lanka U19",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/srilanka.png",
+            "team2": "Nepal U19",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/nepal.png",
+            "start": "2025-12-13T14:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=nepal",
+            "duration": 5
+        },
+
+        {
+            "team1": "Bangladesh U19",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/bangladesh.png",
+            "team2": "Nepal U19",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/nepal.png",
+            "start": "2025-12-15T14:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=nepal",
+            "duration": 5
+        },
+
+        {
+            "team1": "Afghanistan U19",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/afghanistan.png",
+            "team2": "Nepal U19",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/nepal.png",
+            "start": "2025-12-17T14:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=nepal",
+            "duration": 5
         }
     ]
 }
