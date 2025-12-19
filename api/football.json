@@ -1,54 +1,33 @@
 {
     "matches": [
         {
-            "team1": "Napoli",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
-            "team2": "AC Milan",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
-            "start": "2025-12-19T04:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=napoli",
+            "team1": "Valencia",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10267.png",
+            "team2": "Mallorca",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
+            "start": "2025-12-20T05:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=valencia",
             "duration": 2.2
         },
 
         {
-            "team1": "Real Murcia",
-            "team1_logo": "https://cdn.yosintv.link/football.png",
-            "team2": "Real Betis",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
-            "start": "2025-12-19T05:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=realbetis",
+            "team1": " Dortmund",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+            "team2": " M'gladbach",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9788.png",
+            "start": "2025-12-20T04:30:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=dortmund",
             "duration": 2.2
         },
 
         {
-            "team1": "Jordan",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5816.png",
-            "team2": "Morocco",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-            "start": "2025-12-19T01:00:00+09:00",
-            "details_url": "https://blog.cricfoot.net/?yosintv=morocco",
-            "duration": 2.2
-        },
-
-        {
-            "team1": "Ourense CF",
-            "team1_logo": "https://cdn.yosintv.link/football.png",
-            "team2": "Athletic Club",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
-            "start": "2025-12-19T03:00:00+09:00",
-            "details_url": "https://yosintv2.github.io/ads/ak.html?url=484845",
-            "duration": 2.2
-        },
-
-        {
-            "team1": "Burgos",
-            "team1_logo": "https://cdn.yosintv.link/football.png",
-            "team2": "Getafe",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8305.png",
-            "start": "2025-12-19T03:00:00+09:00",
-            "details_url": "https://yosintv2.github.io/ads/ak.html?url=356042",
+            "team1": "Bologna",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9857.png",
+            "team2": "Inter Milan",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+            "start": "2025-12-20T04:00:00+09:00",
+            "details_url": "https://blog.cricfoot.net/?yosintv=intermilan",
             "duration": 2.2
         }
-        
     ]
 }
