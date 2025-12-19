@@ -19,7 +19,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/westindies.png",
             "start": "2025-12-19T07:00:00+09:00",
             "details_url": "https://blog.cricfoot.net/?yosintv=newzealand",
-            "duration": 5
+            "duration": 10
         },
 
         {
@@ -29,7 +29,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/england.png",
             "start": "2025-12-19T08:30:00+09:00",
             "details_url": "https://blog.cricfoot.net/?yosintv=england",
-            "duration": 5,
+            "duration": 10,
             "_memo": "/////////////// API Generated: 12/19/2025, 12:12:49 AM /////////////// "
         }
         
