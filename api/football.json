@@ -8,41 +8,57 @@
             "league": "Africa Cup of Nations",
             "start": "2025-12-23T21:30:00+09:00",
             "details_url": "https://www.cricfoot.net/match?yosintv=drcongo",
-            "duration": 2.2,
-            "_time": "21:30"
+            "duration": 2.2
         },
         {
             "team1": "Senegal",
-            "team1_logo": "https://cdn.yosintv.link/football.png",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
             "team2": "Botswana",
-            "team2_logo": "https://cdn.yosintv.link/football.png",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5887.png",
             "league": "Africa Cup of Nations",
             "start": "2025-12-24T00:00:00+09:00",
             "details_url": "https://www.cricfoot.net/match?yosintv=senegal",
-            "duration": 2.2,
-            "_time": "00:00"
+            "duration": 2.2
         },
         {
             "team1": "Nigeria",
-            "team1_logo": "https://cdn.yosintv.link/football.png",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6346.png",
             "team2": "Tanzania",
-            "team2_logo": "https://cdn.yosintv.link/football.png",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7941.png",
             "league": "Africa Cup of Nations",
             "start": "2025-12-24T02:30:00+09:00",
             "details_url": "https://www.cricfoot.net/match?yosintv=nigeria",
-            "duration": 2.2,
-            "_time": "02:30"
+            "duration": 2.2
+        },
+        {
+            "team1": "Al Ittihad",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8577.png",
+            "team2": "Nasaf Qarshi",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/102153.png",
+            "league": "AFC Champions League Elite, West Region",
+            "start": "2025-12-24T03:15:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=alittihad",
+            "duration": 2.2
         },
         {
             "team1": "Tunisia",
-            "team1_logo": "https://cdn.yosintv.link/football.png",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6719.png",
             "team2": "Uganda",
-            "team2_logo": "https://cdn.yosintv.link/football.png",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5890.png",
             "league": "Africa Cup of Nations",
             "start": "2025-12-24T05:00:00+09:00",
             "details_url": "https://www.cricfoot.net/match?yosintv=tunisia",
-            "duration": 2.2,
-            "_time": "05:00"
+            "duration": 2.2
+        },
+        {
+            "team1": "Arsenal",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "team2": "Crystal Palace",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+            "league": "EFL Cup",
+            "start": "2025-12-24T05:00:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=arsenal",
+            "duration": 2.2
         }
     ]
 }
