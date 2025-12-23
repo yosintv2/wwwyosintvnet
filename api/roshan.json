@@ -1,0 +1,17 @@
+{
+  "name": "Roshan Kunwar",
+  "profilePicture": "https://scontent-nrt1-2.xx.fbcdn.net/v/t39.30808-1/432616210_7186913691427963_4932128658413103410_n.jpg?stp=c0.0.240.240a_dst-jpg_s240x240_tt6&_nc_cat=102&_nc_cb=99be929b-f3b7c874&ccb=1-7&_nc_sid=e99d92&_nc_ohc=VzjCix5DGFsQ7kNvwGrx-Qn&_nc_oc=AdlI7potwa87q9dXg478IF_yXKgDjNkjkBnZfFoAe61OwoCEhRkODonC6c7Kg6k5WQs&_nc_zt=24&_nc_ht=scontent-nrt1-2.xx&_nc_gid=iwDPE-1gAu9bEFsiREgbaw&oh=00_Afm-C2-06FDZOst8NwTIQdaQAPiMOihTKocFBCV6eCegeA&oe=69501E21",
+  "livesIn": "Kathmandu, Nepal",
+  "from": "Dhangadhi, Nepal",
+  "work": "No workplaces to show",
+  "education": [
+    "Studied at Trinity International College, Dillibazar Height, KTM",
+    "Went to NAIHS – College of Medicine, Kathmandu",
+    "Went to SSES"
+  ],
+  "placesLived": [
+    { "location": "Kathmandu, Nepal", "description": "Current city" },
+    { "location": "Dhangadhi", "description": "Hometown" },
+    { "location": "Dillibazar, Kathmandu, Nepal", "description": "" }
+  ]
+} 
