@@ -23,11 +23,31 @@
         {
             "team1": "Arsenal",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
-            "team2": "Brighton & Hove Albion",
+            "team2": "Brighton",
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "league": "EPL",
             "start": "2025-12-28T00:00:00+09:00",
             "details_url": "https://www.cricfoot.net/match?yosintv=arsenal",
+            "duration": 2.2
+        },
+        {
+            "team1": "Brentford",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+            "team2": "Bournemouth",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+            "league": "EPL",
+            "start": "2025-12-28T00:00:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/ak.html?url=_____",
+            "duration": 2.2
+        },
+        {
+            "team1": "Burnley",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
+            "team2": "Everton",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
+            "league": "EPL",
+            "start": "2025-12-28T00:00:00+09:00",
+            "details_url": "https://yosintv2.github.io/ads/ak.html?url=_____",
             "duration": 2.2
         },
         {
@@ -38,26 +58,6 @@
             "league": "EPL",
             "start": "2025-12-28T00:00:00+09:00",
             "details_url": "https://www.cricfoot.net/match?yosintv=liverpool",
-            "duration": 2.2
-        },
-        {
-            "team1": "Brentford",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
-            "team2": "Bournemouth",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
-            "league": "EPL",
-            "start": "2025-12-28T00:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=brentford",
-            "duration": 2.2
-        },
-        {
-            "team1": "Burnley",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
-            "team2": "Everton",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-            "league": "EPL",
-            "start": "2025-12-28T00:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=burnley",
             "duration": 2.2
         },
         {
@@ -91,13 +91,13 @@
             "duration": 2.2
         },
         {
-            "team1": "Milan",
+            "team1": "AC Milan",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8564.png",
             "team2": "Hellas Verona",
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
             "league": "Serie A",
             "start": "2025-12-28T20:30:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=milan",
+            "details_url": "https://www.cricfoot.net/match?yosintv=acmilan",
             "duration": 2.2
         }
     ]
