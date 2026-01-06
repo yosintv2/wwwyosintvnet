@@ -1,55 +1,43 @@
 {
     "matches": [
         {
-            "team1": "Australia",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/australia.png",
-            "team2": "England",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/england.png",
-            "league": "The Ashes",
-            "start": "2026-01-04T08:30:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=australia",
-            "repeat": "5",
-            "duration": 10
-
-        },
-        {
-            "team1": "Sylhet Titans",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/sylhettitans.png",
-            "team2": "Chattogram Royals",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/chattogramroyals.png",
-            "league": "Bangladesh Premier League",
-            "start": "2026-01-04T16:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=bpl",
+            "team1": "England",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/england.png",
+            "team2": "Nepal",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/nepal.png",
+            "league": "ICC Men's T20 World Cup",
+            "start": "2026-02-08T18:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=england",
             "duration": 5
         },
         {
-            "team1": "Melbourne Stars",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/melbournestars.png",
-            "team2": "Melbourne Renegades",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/melbournerenegades.png",
-            "league": "Big Bash League",
-            "start": "2026-01-04T16:05:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=bbl",
+            "team1": "Nepal",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/nepal.png",
+            "team2": "Italy",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/italy.png",
+            "league": "ICC Men's T20 World Cup",
+            "start": "2026-02-08T18:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=nepal",
             "duration": 5
         },
         {
-            "team1": "Perth Scorchers",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/perthscorchers.png",
-            "team2": "Adelaide Strikers",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/adelaidestrikers.png",
-            "league": "Big Bash League",
-            "start": "2026-01-04T19:15:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=bbl",
+            "team1": "West Indies",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/westindies.png",
+            "team2": "Nepal",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/nepal.png",
+            "league": "ICC Men's T20 World Cup",
+            "start": "2026-02-08T14:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=westindies",
             "duration": 5
         },
         {
-            "team1": "Dhaka Capitals",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/dhakacapitals.png",
-            "team2": "Rangpur Riders",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/rangpurriders.png",
-            "league": "Bangladesh Premier League",
-            "start": "2026-01-04T21:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=bpl",
+            "team1": "Bangladesh",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/bangladesh.png",
+            "team2": "Nepal",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/nepal.png",
+            "league": "ICC Men's T20 World Cup",
+            "start": "2026-02-17T22:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=bangladesh",
             "duration": 5
         }
     ]
