@@ -1,43 +1,113 @@
 {
     "matches": [
         {
-            "team1": "Algeria",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6317.png",
-            "team2": "DR Congo",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6321.png",
-            "league": "Africa Cup of Nations, Knockout stage",
-            "start": "2026-01-07T01:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=algeria",
-            "duration": 2.2
-        },
-        {
-            "team1": "Lecce",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9888.png",
-            "team2": "Roma",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8686.png",
+            "team1": "Napoli",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+            "team2": "Hellas Verona",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9876.png",
             "league": "Serie A",
-            "start": "2026-01-07T02:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=roma",
+            "start": "2026-01-08T02:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=napoli",
             "duration": 2.2
         },
         {
-            "team1": "Sassuolo",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
-            "team2": "Juventus",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
-            "league": "Serie A",
-            "start": "2026-01-07T04:45:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=juventus",
+            "team1": "Barcelona",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8634.png",
+            "team2": "Athletic Club",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+            "league": "Supercopa de España",
+            "start": "2026-01-08T04:00:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=barcelona",
             "duration": 2.2
         },
         {
-            "team1": "West Ham United",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
-            "team2": "Nottingham Forest",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+            "team1": "Fulham",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+            "team2": "Chelsea",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
             "league": "EPL",
-            "start": "2026-01-07T05:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=westham",
+            "start": "2026-01-08T04:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=fulham",
+            "duration": 2.2
+        },
+        {
+            "team1": "Manchester City",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+            "team2": "Brighton & Hove Albion",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+            "league": "EPL",
+            "start": "2026-01-08T04:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=manchestercity",
+            "duration": 2.2
+        },
+        {
+            "team1": "Bournemouth",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8678.png",
+            "team2": "Tottenham Hotspur",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+            "league": "EPL",
+            "start": "2026-01-08T04:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=bournemouth",
+            "duration": 2.2
+        },
+        {
+            "team1": "Brentford",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+            "team2": "Sunderland",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
+            "league": "EPL",
+            "start": "2026-01-08T04:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=brentford",
+            "duration": 2.2
+        },
+        {
+            "team1": "Crystal Palace",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9826.png",
+            "team2": "Aston Villa",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+            "league": "EPL",
+            "start": "2026-01-08T04:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=crystalpalace",
+            "duration": 2.2
+        },
+        {
+            "team1": "Everton",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
+            "team2": "Wolverhampton",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
+            "league": "EPL",
+            "start": "2026-01-08T04:30:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=everton",
+            "duration": 2.2
+        },
+        {
+            "team1": "Parma",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10167.png",
+            "team2": "Inter",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8636.png",
+            "league": "Serie A",
+            "start": "2026-01-08T04:45:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=parma",
+            "duration": 2.2
+        },
+        {
+            "team1": "Burnley",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
+            "team2": "Manchester United",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "league": "EPL",
+            "start": "2026-01-08T05:15:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=burnley",
+            "duration": 2.2
+        },
+        {
+            "team1": "Newcastle United",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+            "team2": "Leeds United",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
+            "league": "EPL",
+            "start": "2026-01-08T05:15:00+09:00",
+            "details_url": "https://www.cricfoot.net/match?yosintv=newcastleunited",
             "duration": 2.2
         }
     ]
