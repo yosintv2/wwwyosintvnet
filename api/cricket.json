@@ -1,53 +1,33 @@
 {
     "matches": [
         {
-            "team1": "Dhaka Capitals",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/dhakacapitals.png",
-            "team2": "Noakhali Express",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/noakhaliexpress.png",
+            "team1": "Rajshahi Warriors",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/rajshahiwarriors.png",
+            "team2": "Chattogram Royals",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/chattogramroyals.png",
             "league": "Bangladesh Premier League",
-            "start": "2026-01-07T16:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=dhakacapitals",
+            "start": "2026-01-09T17:00:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
         },
         {
-            "team1": "South Africa Under 19",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/southafrica.png",
-            "team2": "India Under 19",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/india.png",
-            "league": "India U19 in South Africa, 3 Youth ODI Series",
-            "start": "2026-01-07T16:30:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=southafrica",
-            "duration": 5
-        },
-        {
-            "team1": "Perth Scorchers",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/perthscorchers.png",
-            "team2": "Melbourne Renegades",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/melbournerenegades.png",
+            "team1": "Hobart Hurricanes",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/hobarthurricanes.png",
+            "team2": "Adelaide Strikers",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/adelaidestrikers.png",
             "league": "Big Bash League",
-            "start": "2026-01-07T17:15:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=perthscorchers",
+            "start": "2026-01-09T17:15:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bbl",
             "duration": 5
         },
         {
-            "team1": "Chattogram Royals",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/chattogramroyals.png",
-            "team2": "Sylhet Titans",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/sylhettitans.png",
+            "team1": "Noakhali Express",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/noakhaliexpress.png",
+            "team2": "Rangpur Riders",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/rangpurriders.png",
             "league": "Bangladesh Premier League",
-            "start": "2026-01-07T21:00:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=chattogramroyals",
-            "duration": 5
-        },
-        {
-            "team1": "Sri Lanka",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/srilanka.png",
-            "team2": "Pakistan",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/pakistan.png",
-            "league": "Pakistan in Sri Lanka, 3 T20I Series",
-            "start": "2026-01-07T22:30:00+09:00",
-            "details_url": "https://www.cricfoot.net/match?yosintv=srilanka",
+            "start": "2026-01-09T22:00:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
         }
     ]
