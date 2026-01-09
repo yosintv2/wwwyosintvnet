@@ -5,30 +5,30 @@
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/5815.png",
             "team2": "Senegal",
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6395.png",
-            "league": "Africa Cup of Nations, Knockout stage",
-            "start": "2026-01-10T01:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=senegal",
-            "duration": 2.2
+            "league": "Africa Cup of Nations Final Stage",
+            "start": "2026-01-09T16:00:00.000Z",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=senegal"
         },
         {
             "team1": "Cameroon",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6629.png",
             "team2": "Morocco",
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/6262.png",
-            "league": "Africa Cup of Nations, Knockout stage",
-            "start": "2026-01-10T04:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=cameroon",
-            "duration": 2.2
+            "league": "Africa Cup of Nations Final Stage",
+            "start": "2026-01-09T19:00:00.000Z",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=morocco"
         },
         {
-            "team1": "Eintracht Frankfurt",
+            "team1": "Frankfurt",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
-            "team2": "Borussia Dortmund",
+            "team2": "Dortmund",
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
             "league": "Bundesliga",
-            "start": "2026-01-10T04:30:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=eintrachtfrankfurt",
-            "duration": 2.2
+            "start": "2026-01-09T19:30:00.000Z",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=frankfurt"
         },
         {
             "team1": "Getafe",
@@ -36,19 +36,9 @@
             "team2": "Real Sociedad",
             "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
             "league": "LaLiga",
-            "start": "2026-01-10T05:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=getafe",
-            "duration": 2.2
-        },
-        {
-            "team1": "Everton",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
-            "team2": "Sunderland",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8472.png",
-            "league": "FA Cup",
-            "start": "2026-01-10T21:15:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=everton",
-            "duration": 2.2
+            "start": "2026-01-09T20:00:00.000Z",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=getafe"
         }
     ]
 }
