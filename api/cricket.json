@@ -29,6 +29,26 @@
             "start": "2026-01-09T22:00:00+09:00",
             "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
+        },
+        {
+            "team1": "Sri Lanka",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/srilanka.png",
+            "team2": "Pakistan",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/pakistan.png",
+            "league": "Pakistan in Sri Lanka, 3 T20I Series",
+            "start": "2026-01-09T22:30:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=srilanka",
+            "duration": 5
+        },
+        {
+            "team1": "Durban Super Giants",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/durbanssupergiants.png",
+            "team2": "Sunrisers Eastern Cape",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/sunriserseasterncape.png",
+            "league": "SA20 League",
+            "start": "2026-01-10T00:30:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=sat20",
+            "duration": 5
         }
     ]
 }
