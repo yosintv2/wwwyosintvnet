@@ -109,6 +109,16 @@
             "start": "2026-01-10T20:00:00.000Z",
             "duration": 2.2,
             "details_url": "https://www.pasuwadoseisei.com/?yosintv=valencia"
+        },
+        {
+            "team1": "Tottenham",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+            "team2": "Aston Villa",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10252.png",
+            "league": "FA Cup",
+            "start": "2026-01-11T02:45:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=tottenham"
         }
     ]
 }
