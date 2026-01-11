@@ -1,16 +1,6 @@
 {
     "matches": [
         {
-            "team1": "Sochaux",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9874.png",
-            "team2": "Lens",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
-            "league": "Coupe de France",
-            "start": "2026-01-11T22:00:00+09:00",
-            "duration": 2.2,
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=lens"
-        },
-        {
             "team1": "Portsmouth",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8462.png",
             "team2": "Arsenal",
