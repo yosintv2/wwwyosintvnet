@@ -1,43 +1,43 @@
 {
     "matches": [
         {
-            "team1": "Melbourne Renegades",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/melbournerenegades.png",
-            "team2": "Melbourne Stars",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/melbournestars.png",
+            "team1": "Sylhet Titans",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/sylhettitans.png",
+            "team2": "Rangpur Riders",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/rangpurriders.png",
+            "league": "Bangladesh Premier League",
+            "start": "2026-01-12T16:00:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
+            "duration": 5
+        },
+        {
+            "team1": "Sydney Thunder",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/sydneythunder.png",
+            "team2": "Melbourne Renegades",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/melbournerenegades.png",
             "league": "Big Bash League",
-            "start": "2026-01-10T17:15:00+09:00",
+            "start": "2026-01-12T17:15:00+09:00",
             "details_url": "https://www.pasuwadoseisei.com/?yosintv=bbl",
             "duration": 5
         },
         {
-            "team1": "Paarl Royals",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/paarlroyals.png",
-            "team2": "Pretoria Capitals",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/pretoriacapitals.png",
-            "league": "SA20 League",
-            "start": "2026-01-10T20:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=sa20",
+            "team1": "Rajshahi Warriors",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/rajshahiwarriors.png",
+            "team2": "Dhaka Capitals",
+            "team2_logo": "https://aimages.willow.tv/teamLogos/dhakacapitals.png",
+            "league": "Bangladesh Premier League",
+            "start": "2026-01-12T21:00:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
         },
         {
-            "team1": "Joburg Super Kings",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/joburgsuperkings.png",
+            "team1": "Pretoria Capitals",
+            "team1_logo": "https://aimages.willow.tv/teamLogos/pretoriacapitals.png",
             "team2": "MI Cape Town",
             "team2_logo": "https://aimages.willow.tv/teamLogos/micapecown.png",
             "league": "SA20 League",
-            "start": "2026-01-11T00:30:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=sa20",
-            "duration": 5
-        },
-        {
-            "team1": "India",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/india.png",
-            "team2": "New Zealand",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/newzealand.png",
-            "league": "New Zealand in India, 3 ODI Series",
-            "start": "2026-01-11T17:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=india",
+            "start": "2026-01-13T00:30:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=sat20",
             "duration": 5
         }
     ]
