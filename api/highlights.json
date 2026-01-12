@@ -1,6 +1,15 @@
 [
  
 {
+  "id": "esty131815",
+  "team1": "Barcelona",
+  "team2": "Real Madrid",
+  "category": "Supercopa de España",
+  "date": "2026-01-12",
+  "link": "https://www.youtube.com/watch?v=9V2guLT3S14"
+},
+ 
+ {
   "id": "ohku417167",
   "team1": "Rayo Vallecano",
   "team2": "Mallorca",
