@@ -51,16 +51,6 @@
             "details_url": "https://www.pasuwadoseisei.com/?yosintv=roma"
         },
         {
-            "team1": "Bayeux",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/238918.png",
-            "team2": "Marseille",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
-            "league": "Coupe de France",
-            "start": "2026-01-14T05:00:00+09:00",
-            "duration": 2.2,
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=marseille"
-        },
-        {
             "team1": "Real Sociedad",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8560.png",
             "team2": "Osasuna",
@@ -68,7 +58,7 @@
             "league": "Copa del Rey",
             "start": "2026-01-14T05:00:00+09:00",
             "duration": 2.2,
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=realsociedad"
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=osasuna"
         }
     ]
 }
