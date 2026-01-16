@@ -79,6 +79,126 @@
             "start": "2026-01-17T23:30:00+09:00",
             "duration": 2.2,
             "details_url": "https://www.pasuwadoseisei.com/?yosintv=hoffenheim"
+        },
+        {
+            "team1": "Chelsea",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+            "team2": "Brentford",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+            "league": "Premier League",
+            "start": "2026-01-18T00:00:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=chelsea"
+        },
+        {
+            "team1": "Leeds",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8463.png",
+            "team2": "Fulham",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+            "league": "Premier League",
+            "start": "2026-01-18T00:00:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=fulham"
+        },
+        {
+            "team1": "Liverpool",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "team2": "Burnley",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
+            "league": "Premier League",
+            "start": "2026-01-18T00:00:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=liverpool"
+        },
+        {
+            "team1": "Lens",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
+            "team2": "Auxerre",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8583.png",
+            "league": "Ligue 1",
+            "start": "2026-01-18T01:00:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=lens"
+        },
+        {
+            "team1": "Napoli",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9875.png",
+            "team2": "Sassuolo",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7943.png",
+            "league": "Serie A",
+            "start": "2026-01-18T02:00:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=napoli"
+        },
+        {
+            "team1": "Nottm Forest",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
+            "team2": "Arsenal",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9825.png",
+            "league": "Premier League",
+            "start": "2026-01-18T02:30:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=nottmforest"
+        },
+        {
+            "team1": "RB Leipzig",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+            "team2": "Bayern München",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9823.png",
+            "league": "Bundesliga",
+            "start": "2026-01-18T02:30:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=rbleipzig"
+        },
+        {
+            "team1": "Al Nassr FC",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+            "team2": "Al Shabab",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/101916.png",
+            "league": "Saudi Pro League",
+            "start": "2026-01-18T02:30:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=alnassrfc"
+        },
+        {
+            "team1": "Cagliari",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8529.png",
+            "team2": "Juventus",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9885.png",
+            "league": "Serie A",
+            "start": "2026-01-18T04:45:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=juventus"
+        },
+        {
+            "team1": "Real Betis",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8603.png",
+            "team2": "Villarreal",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10205.png",
+            "league": "LaLiga",
+            "start": "2026-01-18T05:00:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=realbetis"
+        },
+        {
+            "team1": "Angers",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8121.png",
+            "team2": "Marseille",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8592.png",
+            "league": "Ligue 1",
+            "start": "2026-01-18T05:05:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=marseille"
+        },
+        {
+            "team1": "Wolves",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8602.png",
+            "team2": "Newcastle",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
+            "league": "Premier League",
+            "start": "2026-01-18T23:00:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=wolves"
         }
     ]
 }
