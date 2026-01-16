@@ -1,33 +1,13 @@
 {
     "matches": [
         {
-            "team1": "Chattogram Royals",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/chattogramroyals.png",
-            "team2": "Noakhali Express",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/noakhaliexpress.png",
-            "league": "Bangladesh Premier League",
-            "start": "2026-01-15T16:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=chattogramroyals",
-            "duration": 5
-        },
-        {
             "team1": "Rajshahi Warriors",
             "team1_logo": "https://aimages.willow.tv/teamLogos/rajshahiwarriors.png",
             "team2": "Sylhet Titans",
             "team2_logo": "https://aimages.willow.tv/teamLogos/sylhettitans.png",
             "league": "Bangladesh Premier League",
-            "start": "2026-01-15T21:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=rajshahiwarriors",
-            "duration": 5
-        },
-        {
-            "team1": "Melbourne Renegades",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/melbournerenegades.png",
-            "team2": "Perth Scorchers",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/perthscorchers.png",
-            "league": "Big Bash League",
-            "start": "2026-01-15T17:15:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=melbournerenegades",
+            "start": "2026-01-16T22:00:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
         },
         {
@@ -36,18 +16,8 @@
             "team2": "Dhaka Capitals",
             "team2_logo": "https://aimages.willow.tv/teamLogos/dhakacapitals.png",
             "league": "Bangladesh Premier League",
-            "start": "2026-01-16T17:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=rangpurriders",
-            "duration": 5
-        },
-        {
-            "team1": "Sydney Sixers",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/sydneysixers.png",
-            "team2": "Sydney Thunder",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/sydneythunder.png",
-            "league": "Big Bash League",
-            "start": "2026-01-16T17:15:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=sydneysixers",
+            "start": "2026-01-17T16:00:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
         },
         {
@@ -56,18 +26,8 @@
             "team2": "Rajshahi Warriors",
             "team2_logo": "https://aimages.willow.tv/teamLogos/rajshahiwarriors.png",
             "league": "Bangladesh Premier League",
-            "start": "2026-01-16T22:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=chattogramroyals",
-            "duration": 5
-        },
-        {
-            "team1": "Rangpur Riders",
-            "team1_logo": "https://aimages.willow.tv/teamLogos/rangpurriders.png",
-            "team2": "Noakhali Express",
-            "team2_logo": "https://aimages.willow.tv/teamLogos/noakhaliexpress.png",
-            "league": "Bangladesh Premier League",
-            "start": "2026-01-17T16:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=rangpurriders",
+            "start": "2026-01-17T21:00:00+09:00",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
         },
         {
@@ -77,7 +37,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/melbournerenegades.png",
             "league": "Big Bash League",
             "start": "2026-01-17T15:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=adelaidestrikers",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bbl",
             "duration": 5
         },
         {
@@ -87,7 +47,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/melbournestars.png",
             "league": "Big Bash League",
             "start": "2026-01-17T18:15:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=perthscorchers",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bbl",
             "duration": 5
         }
     ]
