@@ -81,6 +81,26 @@
             "details_url": "https://www.pasuwadoseisei.com/?yosintv=liverpool"
         },
         {
+            "team1": "Tottenham",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+            "team2": "West Ham",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+            "league": "Premier League",
+            "start": "2026-01-18T00:00:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=tottenham"
+        },
+        {
+            "team1": "Mallorca",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8661.png",
+            "team2": "Athletic Club",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8315.png",
+            "league": "LaLiga",
+            "start": "2026-01-18T00:15:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=mallorca"
+        },
+        {
             "team1": "Lens",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8588.png",
             "team2": "Auxerre",
@@ -129,6 +149,16 @@
             "start": "2026-01-18T02:30:00+09:00",
             "duration": 2.2,
             "details_url": "https://www.pasuwadoseisei.com/?yosintv=alnassrfc"
+        },
+        {
+            "team1": "Osasuna",
+            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8371.png",
+            "team2": "Real Oviedo",
+            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8670.png",
+            "league": "LaLiga",
+            "start": "2026-01-18T02:30:00+09:00",
+            "duration": 2.2,
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=osasuna"
         },
         {
             "team1": "Cagliari",
