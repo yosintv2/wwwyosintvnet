@@ -1,6 +1,6 @@
 [
   {
-    "id": "bffq052010",
+    "id": "qpxi163801",
     "team1": "Milan U20",
     "team2": "Fiorentina U20",
     "category": "Primavera 1",
@@ -8,7 +8,7 @@
     "link": "https://www.youtube.com/watch?v=2zs0q3Qthdk"
   },
   {
-    "id": "dcju434958",
+    "id": "xwik874908",
     "team1": "Como",
     "team2": "Milan",
     "category": "Serie A",
@@ -16,7 +16,7 @@
     "link": "https://www.youtube.com/watch?v=R3SPrZ53-XU"
   },
   {
-    "id": "uafd988317",
+    "id": "nhzv978623",
     "team1": "Real Racing Club",
     "team2": "Barcelona",
     "category": "Copa del Rey",
@@ -24,7 +24,7 @@
     "link": "https://www.youtube.com/watch?v=payp1G9nIVw"
   },
   {
-    "id": "ctnk486346",
+    "id": "xxih293908",
     "team1": "Monsoon",
     "team2": "Internacional",
     "category": "Gaúcho",
@@ -64,28 +64,12 @@
     "link": "https://www.youtube.com/watch?v=match-cente"
   },
   {
-    "id": "gjhc571661",
-    "team1": "Fútbol Club Barcelona",
-    "team2": "Club Atlético de Madrid",
-    "category": "Liga F Moeve",
-    "date": "2026-01-15",
-    "link": "https://www.youtube.com/watch?v=jmBUiG-iWbE"
-  },
-  {
     "id": "yymk288880",
     "team1": "Inter de Santa Maria",
     "team2": "São Luiz",
     "category": "Gaúcho",
     "date": "2026-01-15",
     "link": "https://www.youtube.com/watch?v=tVGFxe1ZVKc"
-  },
-  {
-    "id": "ifen782796",
-    "team1": "Newcastle United",
-    "team2": "Manchester City",
-    "category": "EFL Cup",
-    "date": "2026-01-14",
-    "link": "https://www.youtube.com/watch?v=aYVvq-Okvts"
   },
   {
     "id": "qsqm684011",
@@ -168,14 +152,6 @@
     "link": "https://www.youtube.com/watch?v=7muvIukUDcw"
   },
   {
-    "id": "udwj589928",
-    "team1": "Manchester City",
-    "team2": "Exeter City",
-    "category": "FA Cup",
-    "date": "2026-01-11",
-    "link": "https://www.youtube.com/watch?v=L4xscaBHetU"
-  },
-  {
     "id": "mwan675554",
     "team1": "Charlton Athletic",
     "team2": "Chelsea",
@@ -222,14 +198,6 @@
     "category": "EPL",
     "date": "2026-01-08",
     "link": "https://www.youtube.com/watch?v=xfNJICcxbr4"
-  },
-  {
-    "id": "jtmq979191",
-    "team1": "Manchester City",
-    "team2": "Brighton & Hove Albion",
-    "category": "EPL",
-    "date": "2026-01-08",
-    "link": "https://www.youtube.com/watch?v=14l2uBnAqM0"
   },
   {
     "id": "vsbq898320",
@@ -360,14 +328,6 @@
     "link": "https://www.youtube.com/watch?v=wOWoXQp7QlY"
   },
   {
-    "id": "osyw345913",
-    "team1": "Sunderland",
-    "team2": "Manchester City",
-    "category": "EPL",
-    "date": "2026-01-02",
-    "link": "https://www.youtube.com/watch?v=CkAgYMX3St0"
-  },
-  {
     "id": "inzm136942",
     "team1": "Chelsea",
     "team2": "Bournemouth",
@@ -414,14 +374,6 @@
     "category": "Serie A",
     "date": "2025-12-29",
     "link": "https://www.youtube.com/watch?v=cxb2A8TfI-s"
-  },
-  {
-    "id": "fcyp761018",
-    "team1": "Nottingham Forest",
-    "team2": "Manchester City",
-    "category": "EPL",
-    "date": "2025-12-28",
-    "link": "https://www.youtube.com/watch?v=vvEBsZ-WQkQ"
   },
   {
     "id": "zici081948",
@@ -494,14 +446,6 @@
     "category": "EPL",
     "date": "2025-12-21",
     "link": "https://www.youtube.com/watch?v=Rhoo0mDFcBQ"
-  },
-  {
-    "id": "gza4130413",
-    "team1": "Manchester City",
-    "team2": "West Ham United",
-    "category": "EPL",
-    "date": "2025-12-21",
-    "link": "https://www.youtube.com/watch?v=0-aYx5PHPBM"
   },
   {
     "id": "hul2179630",
@@ -640,14 +584,6 @@
     "link": "https://www.youtube.com/watch?v=uIr56A1JnoQ"
   },
   {
-    "id": "ixjy804701",
-    "team1": "Fulham",
-    "team2": "Manchester City",
-    "category": "EPL",
-    "date": "2025-12-13",
-    "link": "https://www.youtube.com/watch?v=fR8x8lledU0"
-  },
-  {
     "id": "horh388956",
     "team1": "Barcelona",
     "team2": "Atlético Madrid",
@@ -728,14 +664,6 @@
     "link": "https://www.youtube.com/watch?v=pkrqi9Y_cTY"
   },
   {
-    "id": "zxly661853",
-    "team1": "Manchester City",
-    "team2": "Sunderland",
-    "category": "EPL",
-    "date": "2025-12-13",
-    "link": "https://www.youtube.com/watch?v=JBth7QQf9Vc"
-  },
-  {
     "id": "gbwl052630",
     "team1": "Leeds United",
     "team2": "Liverpool",
@@ -766,14 +694,6 @@
     "category": "Bundesliga",
     "date": "2025-12-13",
     "link": "https://www.youtube.com/watch?v=P62QsIe8oy0"
-  },
-  {
-    "id": "qdbf066445",
-    "team1": "Inter Miami CF",
-    "team2": "Vancouver Whitecaps",
-    "category": "MLS",
-    "date": "2025-12-13",
-    "link": "https://www.youtube.com/watch?v=CzZsSW1nUog"
   },
   {
     "id": "sovq229273",
@@ -896,28 +816,12 @@
     "link": "https://www.youtube.com/watch?v=jDfASg69eY0"
   },
   {
-    "id": "pwxy905604",
-    "team1": "Manchester City",
-    "team2": "Bournemouth",
-    "category": "EPL",
-    "date": "2025-11-03",
-    "link": "https://www.youtube.com/watch?v=Cmqz63yCmvo"
-  },
-  {
     "id": "ofoa923122",
     "team1": "Barcelona",
     "team2": "Elche",
     "category": "LaLiga",
     "date": "2025-11-03",
     "link": "https://www.youtube.com/watch?v=kiw5e7HZe-c"
-  },
-  {
-    "id": "h9983019",
-    "team1": "Inter Miami CF",
-    "team2": "Seattle Sounders FC",
-    "category": "MLS",
-    "date": "2025-09-17",
-    "link": "https://www.youtube.com/watch?v=ewSjMbKgtaA"
   },
   {
     "id": "h3802419",
@@ -1016,30 +920,6 @@
     "link": "https://www.youtube.com/watch?v=y81qZscYO7I"
   },
   {
-    "id": "gzor045760",
-    "team1": "Inter Miami CF",
-    "team2": "Tigres UANL",
-    "category": "Leagues Cup",
-    "date": "2025-08-20",
-    "link": "https://www.youtube.com/watch?v=JSwaY1v-keM"
-  },
-  {
-    "id": "dawa703851",
-    "team1": "Inter Miami CF",
-    "team2": "FC Porto",
-    "category": "FIFA Club World Cup",
-    "date": "2025-07-18",
-    "link": "https://www.youtube.com/watch?v=wo0H4Q7aj80"
-  },
-  {
-    "id": "tsoa491021",
-    "team1": "Manchester City",
-    "team2": "Wydad Casablanca",
-    "category": "FIFA Club World Cup",
-    "date": "2025-07-18",
-    "link": "https://www.youtube.com/watch?v=BUMNdY4jnGA"
-  },
-  {
     "id": "zetf470009",
     "team1": "Al-Ain",
     "team2": "Juventus",
@@ -1088,28 +968,12 @@
     "link": "https://www.youtube.com/watch?v=cufCBJuxtEk"
   },
   {
-    "id": "jfgz969802",
-    "team1": "Manchester City",
-    "team2": "Al-Ain",
-    "category": "FIFA Club World Cup",
-    "date": "2025-07-18",
-    "link": "https://www.youtube.com/watch?v=OXmJzoZ1vJg"
-  },
-  {
     "id": "ahfv614919",
     "team1": "Real Madrid",
     "team2": "CF Pachuca",
     "category": "FIFA Club World Cup",
     "date": "2025-07-18",
     "link": "https://www.youtube.com/watch?v=gdJbfccwu9E"
-  },
-  {
-    "id": "qngy032844",
-    "team1": "Inter Miami CF",
-    "team2": "Palmeiras",
-    "category": "FIFA Club World Cup",
-    "date": "2025-07-18",
-    "link": "https://www.youtube.com/watch?v=pG0ONhG-GQ0"
   },
   {
     "id": "atlz788906",
@@ -1160,28 +1024,12 @@
     "link": "https://www.youtube.com/watch?v=P_9r_g5654s"
   },
   {
-    "id": "vpnv507019",
-    "team1": "Paris Saint-Germain",
-    "team2": "Inter Miami CF",
-    "category": "FIFA Club World Cup",
-    "date": "2025-07-18",
-    "link": "https://www.youtube.com/watch?v=2eY74BW4SbE"
-  },
-  {
     "id": "lrmc465264",
     "team1": "Inter",
     "team2": "Fluminense",
     "category": "FIFA Club World Cup",
     "date": "2025-07-18",
     "link": "https://www.youtube.com/watch?v=ymRM56Zygq8"
-  },
-  {
-    "id": "cnrj031537",
-    "team1": "Manchester City",
-    "team2": "Al-Hilal",
-    "category": "FIFA Club World Cup",
-    "date": "2025-07-18",
-    "link": "https://www.youtube.com/watch?v=c_I6CJkS4aQ"
   },
   {
     "id": "zeoa909046",
@@ -1256,15 +1104,15 @@
     "link": "https://www.youtube.com/watch?v=CYbQfFv8pHE"
   },
   {
-    "id": "qell109929",
-    "team1": "Sporting CP",
-    "team2": "Manchester City",
-    "category": "UCL",
-    "date": "2024-11-06",
-    "link": "https://www.youtube.com/watch?v=8oC50pKc6Vc"
+    "id": "xamd067553",
+    "team1": "Fortaleza",
+    "team2": "Alianza Valledupar",
+    "category": "Liga DIMAYOR, Apertura",
+    "date": "2026-01-17",
+    "link": "https://www.youtube.com/watch?v=ObnbS6K3__Y"
   },
   {
-    "id": "qvcn290243",
+    "id": "xeck909523",
     "team1": "Pisa",
     "team2": "Atalanta",
     "category": "Serie A",
@@ -1272,7 +1120,7 @@
     "link": "https://www.youtube.com/watch?v=o4v-8Iu4hEw"
   },
   {
-    "id": "oxhu431088",
+    "id": "ddpp269205",
     "team1": "Espanyol",
     "team2": "Girona",
     "category": "LaLiga",
@@ -1280,7 +1128,7 @@
     "link": "https://www.youtube.com/watch?v=8l9osALbaCw"
   },
   {
-    "id": "mrdl081052",
+    "id": "sqys902623",
     "team1": "SV Werder Bremen",
     "team2": "Eintracht Frankfurt",
     "category": "Bundesliga",
@@ -1288,7 +1136,7 @@
     "link": "https://www.youtube.com/watch?v=ZoVyj-ymEdQ"
   },
   {
-    "id": "kxds395485",
+    "id": "wvvq895624",
     "team1": "Paris Saint Germain",
     "team2": "Lille",
     "category": "Ligue 1",
@@ -1296,7 +1144,7 @@
     "link": "https://www.youtube.com/watch?v=M5tS4LqdyvA"
   },
   {
-    "id": "hool354053",
+    "id": "xphr547079",
     "team1": "Sporting CP",
     "team2": "Casa Pia",
     "category": "Liga Portugal Betclic",
@@ -1304,7 +1152,7 @@
     "link": "https://www.youtube.com/watch?v=zWJjz3Ae9iM"
   },
   {
-    "id": "eaks700561",
+    "id": "kgqd518634",
     "team1": "West Bromwich Albion",
     "team2": "Middlesbrough",
     "category": "Championship",
@@ -1312,7 +1160,7 @@
     "link": "https://www.youtube.com/watch?v=mm-hq688ofo"
   },
   {
-    "id": "idup065176",
+    "id": "nxzl803742",
     "team1": "São Paulo",
     "team2": "São Bernardo",
     "category": "Paulista Série A1",
@@ -1320,7 +1168,7 @@
     "link": "https://www.youtube.com/watch?v=5mRSaw58-Rg"
   },
   {
-    "id": "bmcy660547",
+    "id": "lodq846649",
     "team1": "Sampdoria",
     "team2": "Virtus Entella",
     "category": "Serie B",
@@ -1328,7 +1176,7 @@
     "link": "https://www.youtube.com/watch?v=w3Af8s3-SIU"
   },
   {
-    "id": "rayj213041",
+    "id": "smib177190",
     "team1": "VVV Venlo",
     "team2": "Jong AZ Alkmaar",
     "category": "Eerste Divisie",
@@ -1336,7 +1184,7 @@
     "link": "https://www.youtube.com/watch?v=9kP7ciRyOlg"
   },
   {
-    "id": "agtm090866",
+    "id": "vudf437536",
     "team1": "Çorum FK",
     "team2": "Adana Demirspor",
     "category": "1. Lig",
@@ -1344,7 +1192,7 @@
     "link": "https://www.youtube.com/watch?v=YsS9QdLyThI"
   },
   {
-    "id": "bjhi344613",
+    "id": "pksh399007",
     "team1": "Melbourne City",
     "team2": "Auckland",
     "category": "A-League Men",
@@ -1352,7 +1200,7 @@
     "link": "https://www.youtube.com/watch?v=QLFvsrYmXGw"
   },
   {
-    "id": "tymz247603",
+    "id": "wxgu176552",
     "team1": "Perth Glory",
     "team2": "Brisbane Roar",
     "category": "A-League Men",
@@ -1360,7 +1208,7 @@
     "link": "https://www.youtube.com/watch?v=2w_hmILnlCY"
   },
   {
-    "id": "pekl445953",
+    "id": "yrjp023911",
     "team1": "Deportivo Pereira",
     "team2": "Llaneros",
     "category": "Liga DIMAYOR, Apertura",
@@ -1368,7 +1216,7 @@
     "link": "https://www.youtube.com/watch?v=KKQ3uZ4-FwQ"
   },
   {
-    "id": "gayp083875",
+    "id": "hncj479279",
     "team1": "Al Najma SC",
     "team2": "Al Fateh",
     "category": "Saudi Pro League",
@@ -1376,7 +1224,7 @@
     "link": "https://www.youtube.com/watch?v=Pa7ddypkcX4"
   },
   {
-    "id": "opeg848160",
+    "id": "cjwa698278",
     "team1": "Al Khaleej",
     "team2": "Al Okhdood",
     "category": "Saudi Pro League",
@@ -1384,7 +1232,7 @@
     "link": "https://www.youtube.com/watch?v=1YkZmCwoXwU"
   },
   {
-    "id": "ksbv605560",
+    "id": "lypp989972",
     "team1": "Al Ittihad",
     "team2": "Al Ettifaq",
     "category": "Saudi Pro League",
@@ -1392,7 +1240,7 @@
     "link": "https://www.youtube.com/watch?v=iQ05IAj3q2A"
   },
   {
-    "id": "dpcm599885",
+    "id": "iyra773875",
     "team1": "Argeș Pitești",
     "team2": "SB",
     "category": "Superliga",
@@ -1400,7 +1248,7 @@
     "link": "https://www.youtube.com/watch?v=ifU42givdvU"
   },
   {
-    "id": "zlje161601",
+    "id": "rgnk711892",
     "team1": "Melbourne City",
     "team2": "Newcastle Jets",
     "category": "A-League, Women",
@@ -1408,7 +1256,7 @@
     "link": "https://www.youtube.com/watch?v=bu7PEWIZiuM"
   },
   {
-    "id": "nnyz267792",
+    "id": "zqcr789452",
     "team1": "Western Sydney Wanderers",
     "team2": "Brisbane Roar",
     "category": "A-League, Women",
@@ -1416,7 +1264,7 @@
     "link": "https://www.youtube.com/watch?v=mdGcOQpxraM"
   },
   {
-    "id": "qajw818831",
+    "id": "xyfp500742",
     "team1": "Al Shahaniya",
     "team2": "Umm Salal SC",
     "category": "Stars League",
@@ -1424,7 +1272,7 @@
     "link": "https://www.youtube.com/watch?v=w8xWmPq-1mw&pp=0gcJCU0KAYcqIYzv"
   },
   {
-    "id": "uidb560646",
+    "id": "kahj583352",
     "team1": "Al Sadd",
     "team2": "Al Ahli Doha",
     "category": "Stars League",
@@ -1432,7 +1280,7 @@
     "link": "https://www.youtube.com/watch?v=I_RUofkEeik"
   },
   {
-    "id": "jjta788264",
+    "id": "zoji857267",
     "team1": "Jong KRC Genk U23",
     "team2": "Lommel SK",
     "category": "Challenger Pro League",
@@ -1440,7 +1288,7 @@
     "link": "https://www.youtube.com/watch?v=CBYiWkyfT-Q"
   },
   {
-    "id": "qluk083207",
+    "id": "pana884796",
     "team1": "R Seraing",
     "team2": "RWDM Brussels",
     "category": "Challenger Pro League",
@@ -1448,7 +1296,7 @@
     "link": "https://www.youtube.com/watch?v=UfBDgLTANMA"
   },
   {
-    "id": "fpqn574476",
+    "id": "ryvj799861",
     "team1": "Japan U23",
     "team2": "Jordan U23",
     "category": "U23 AFC Asian Cup, Knockout stage",
@@ -1456,7 +1304,7 @@
     "link": "https://www.youtube.com/watch?v=I9ezLCz5pr8"
   },
   {
-    "id": "netr188372",
+    "id": "krkv277241",
     "team1": "Vietnam U23",
     "team2": "United Arab Emirates U23",
     "category": "U23 AFC Asian Cup, Knockout stage",
@@ -1464,7 +1312,7 @@
     "link": "https://www.youtube.com/watch?v=lypRP821MqM"
   },
   {
-    "id": "uraf747249",
+    "id": "nltk096435",
     "team1": "Vasco da Gama",
     "team2": "Maricá",
     "category": "Carioca Série A – Taça Guanabara",
@@ -1472,7 +1320,7 @@
     "link": "https://www.youtube.com/watch?v=5PHjeCxg6HU"
   },
   {
-    "id": "zovo318761",
+    "id": "zjuq995776",
     "team1": "Junior Barranquilla",
     "team2": "Independiente Santa Fe",
     "category": "Super Cup",
@@ -1480,7 +1328,7 @@
     "link": "https://www.youtube.com/watch?v=6xHw-pAHz9c&pp=0gcJCU0KAYcqIYzv"
   },
   {
-    "id": "etos528627",
+    "id": "pjqn638833",
     "team1": "LD Alajuelense",
     "team2": "Municipal Liberia",
     "category": "Primera División, Clausura",
@@ -1488,7 +1336,7 @@
     "link": "https://www.youtube.com/watch?v=BPoDoOb3imo"
   },
   {
-    "id": "hvma290245",
+    "id": "ohpf506067",
     "team1": "Aubagne",
     "team2": "Paris 13 Atletico",
     "category": "National",
@@ -1496,7 +1344,7 @@
     "link": "https://www.youtube.com/watch?v=EMaMrcOeGN4"
   },
   {
-    "id": "smfl268450",
+    "id": "pcde210299",
     "team1": "Dijon",
     "team2": "Le Puy Foot 43 Auvergne",
     "category": "National",
@@ -1504,7 +1352,7 @@
     "link": "https://www.youtube.com/watch?v=LGLe2J_BTXQ"
   },
   {
-    "id": "jlkw418722",
+    "id": "zrob585572",
     "team1": "Fleury",
     "team2": "US Orléans",
     "category": "National",
@@ -1512,7 +1360,7 @@
     "link": "https://www.youtube.com/watch?v=YIJbJZ8aX-s"
   },
   {
-    "id": "ysbp409840",
+    "id": "whdn818059",
     "team1": "Versailles 78",
     "team2": "Rouen",
     "category": "National",
@@ -1520,7 +1368,7 @@
     "link": "https://www.youtube.com/watch?v=MNdWYxPFfCk"
   },
   {
-    "id": "vybm637124",
+    "id": "vftv590188",
     "team1": "Sochaux",
     "team2": "Châteauroux",
     "category": "National",
@@ -1528,7 +1376,7 @@
     "link": "https://www.youtube.com/watch?v=ET7g6mmhGl0"
   },
   {
-    "id": "yevj758712",
+    "id": "abjv259278",
     "team1": "US Concarneau",
     "team2": "Caen",
     "category": "National",
@@ -1536,7 +1384,7 @@
     "link": "https://www.youtube.com/watch?v=8x3dh4ST0ik"
   },
   {
-    "id": "rxfp918648",
+    "id": "zocq189289",
     "team1": "SSV Jahn Regensburg",
     "team2": "Ingolstadt 04",
     "category": "3. Liga",
@@ -1544,7 +1392,7 @@
     "link": "https://www.youtube.com/watch?v=r83QDtOfCgY&pp=0gcJCU0KAYcqIYzv"
   },
   {
-    "id": "hktm608587",
+    "id": "gvnm786331",
     "team1": "Vis Pesaro",
     "team2": "Arezzo",
     "category": "Serie C, Group B",
@@ -1552,7 +1400,7 @@
     "link": "https://www.youtube.com/watch?v=yyiyQP7NX2o"
   },
   {
-    "id": "izec345980",
+    "id": "qpky543416",
     "team1": "Cavese",
     "team2": "Team Altamura",
     "category": "Serie C, Group C",
@@ -1560,7 +1408,7 @@
     "link": "https://www.youtube.com/watch?v=V3GomlnBl_E&pp=0gcJCU0KAYcqIYzv"
   },
   {
-    "id": "vhgh346143",
+    "id": "cfmx201220",
     "team1": "Lazio U20",
     "team2": "Sassuolo U20",
     "category": "Primavera 1",
@@ -1568,7 +1416,7 @@
     "link": "https://www.youtube.com/watch?v=6ShufKpgJJo&pp=0gcJCU0KAYcqIYzv"
   },
   {
-    "id": "thwm689969",
+    "id": "ftsi248784",
     "team1": "Académico Viseu",
     "team2": "União de Leiria",
     "category": "Liga Portugal 2",
@@ -1576,7 +1424,7 @@
     "link": "https://www.youtube.com/watch?v=O2Uy6miCnrk"
   },
   {
-    "id": "qrar476234",
+    "id": "vedg739670",
     "team1": "Tampines Rovers",
     "team2": "Young Lions",
     "category": "Premier League",
@@ -1584,7 +1432,7 @@
     "link": "https://www.youtube.com/watch?v=4zMy9wW19h8"
   },
   {
-    "id": "ojlr911752",
+    "id": "ylkw065218",
     "team1": "ES Zarzis",
     "team2": "CS Sfaxien",
     "category": "Ligue 1",
@@ -1592,7 +1440,7 @@
     "link": "https://www.youtube.com/watch?v=H_uQE1igMOA"
   },
   {
-    "id": "epgm410142",
+    "id": "spxm507204",
     "team1": "Olympique Béja",
     "team2": "US Ben Guerdane",
     "category": "Ligue 1",
@@ -1600,7 +1448,7 @@
     "link": "https://youtu.be/Ifb04N5yKGQ?si=4kFgnLkmjYT_8fgg"
   },
   {
-    "id": "vfjp183550",
+    "id": "soag133947",
     "team1": "Stade Tunisien",
     "team2": "US Monastir",
     "category": "Ligue 1",
@@ -1608,7 +1456,7 @@
     "link": "https://youtu.be/8mK2ipoim84?si=OumwuK3xKRRC1XdK"
   },
   {
-    "id": "wnux836669",
+    "id": "qvot146928",
     "team1": "Olimpia",
     "team2": "Colo Colo",
     "category": "Club Friendly Games",
@@ -1616,7 +1464,7 @@
     "link": "https://youtu.be/qBH8-PyDm3c"
   },
   {
-    "id": "pyhi866002",
+    "id": "laod640495",
     "team1": "Hellas Verona",
     "team2": "Bologna",
     "category": "Serie A",
@@ -1624,7 +1472,7 @@
     "link": "https://www.youtube.com/watch?v=kQkRO36Thbg"
   },
   {
-    "id": "pvit848349",
+    "id": "ponz394676",
     "team1": "Augsburg",
     "team2": "1.  Union Berlin",
     "category": "Bundesliga",
@@ -1632,7 +1480,7 @@
     "link": "https://www.youtube.com/watch?v=bwnVF16zXvU"
   },
   {
-    "id": "pesv355225",
+    "id": "qowa798014",
     "team1": "Burgos Club de Fútbol",
     "team2": "Valencia",
     "category": "Copa del Rey",
@@ -1640,7 +1488,7 @@
     "link": "https://www.youtube.com/watch?v=apMRKrYvzeM"
   },
   {
-    "id": "qxpx037416",
+    "id": "xgvz476286",
     "team1": "Eyüpspor",
     "team2": "Iğdır FK",
     "category": "Turkiye Kupasi, Group B",
@@ -1648,7 +1496,7 @@
     "link": "https://www.youtube.com/watch?v=4f_5VwknkjQ"
   },
   {
-    "id": "xatv628409",
+    "id": "efmw925092",
     "team1": "Bodrum FK",
     "team2": "Konyaspor",
     "category": "Turkiye Kupasi, Group B",
@@ -1656,7 +1504,7 @@
     "link": "https://www.youtube.com/watch?v=XIwAmj546_0"
   },
   {
-    "id": "poka080298",
+    "id": "lyen665548",
     "team1": "Erzurumspor FK",
     "team2": "Çaykur Rizespor",
     "category": "Turkiye Kupasi, Group C",
@@ -1664,7 +1512,7 @@
     "link": "https://www.youtube.com/watch?v=SB2BkRAG1oE"
   },
   {
-    "id": "irlv007725",
+    "id": "ddiy391060",
     "team1": "Beşiktaş JK",
     "team2": "Keçiörengücü",
     "category": "Turkiye Kupasi, Group C",
@@ -1672,7 +1520,7 @@
     "link": "https://www.youtube.com/watch?v=cvwfKn7qrU4"
   },
   {
-    "id": "oxta295226",
+    "id": "kvdi472120",
     "team1": "SC Heerenveen",
     "team2": "RKC Waalwijk",
     "category": "KNVB beker",
@@ -1680,7 +1528,7 @@
     "link": "https://www.youtube.com/watch?v=K904axMCPOA"
   },
   {
-    "id": "vced361113",
+    "id": "hmdc861127",
     "team1": "Sparta Rotterdam",
     "team2": "Volendam",
     "category": "KNVB beker",
@@ -1688,7 +1536,7 @@
     "link": "https://www.youtube.com/watch?v=TdTaYF4ZaH4&pp=0gcJCU0KAYcqIYzv"
   },
   {
-    "id": "kbdt781839",
+    "id": "enkz071414",
     "team1": "Botafogo SP",
     "team2": "EC Noroeste",
     "category": "Paulista Série A1",
@@ -1696,7 +1544,7 @@
     "link": "https://www.youtube.com/watch?v=u2FJzzh7H4Q"
   },
   {
-    "id": "kauq844666",
+    "id": "vwdy356320",
     "team1": "Red Bull Bragantino",
     "team2": "Corinthians",
     "category": "Paulista Série A1",
@@ -1704,7 +1552,7 @@
     "link": "https://www.youtube.com/watch?v=zM21MEc2XGI&pp=0gcJCU0KAYcqIYzv"
   },
   {
-    "id": "wwgt098596",
+    "id": "hvqy937431",
     "team1": "Al Wakrah",
     "team2": "Al Duhail",
     "category": "Stars League",
@@ -1712,7 +1560,7 @@
     "link": "https://www.youtube.com/watch?v=Kln3SvzkGe4"
   },
   {
-    "id": "cytl709640",
+    "id": "tuux489539",
     "team1": "Al Arabi SC",
     "team2": "Al Gharafa",
     "category": "Stars League",
@@ -1720,7 +1568,7 @@
     "link": "https://www.youtube.com/watch?v=pzjzPkv8ofQ"
   },
   {
-    "id": "romg532618",
+    "id": "lqjp434874",
     "team1": "Shabab Al Ahli Dubai",
     "team2": "Ajman",
     "category": "Pro League",
@@ -1728,7 +1576,7 @@
     "link": "https://www.youtube.com/watch?v=NmQ_isCfRJ0"
   },
   {
-    "id": "znfb202164",
+    "id": "qqwl945484",
     "team1": "RSC Anderlecht",
     "team2": "KAA Gent",
     "category": "Beker van Belgie",
@@ -1736,7 +1584,7 @@
     "link": "https://www.youtube.com/watch?v=GO9YrLH1jHM"
   },
   {
-    "id": "nugt168935",
+    "id": "vpfo826531",
     "team1": "Sampaio Corrêa RJ",
     "team2": "Nova Iguaçu",
     "category": "Carioca Série A – Taça Guanabara",
@@ -1744,7 +1592,7 @@
     "link": "https://www.youtube.com/watch?v=TTeJJkUmhGU"
   },
   {
-    "id": "tytc084912",
+    "id": "duxk416141",
     "team1": "Portuguesa RJ",
     "team2": "Botafogo",
     "category": "Carioca Série A – Taça Guanabara",
@@ -1752,7 +1600,7 @@
     "link": "https://www.youtube.com/watch?v=tctzA_T-OUc"
   },
   {
-    "id": "cypa407126",
+    "id": "qeyx469343",
     "team1": "Ypiranga",
     "team2": "Guarany de Bagé",
     "category": "Gaúcho",
@@ -1760,7 +1608,7 @@
     "link": "https://www.youtube.com/watch?v=i-k7-dZonHY"
   },
   {
-    "id": "wijl425754",
+    "id": "kjwz399486",
     "team1": "Vizela",
     "team2": "Paços de Ferreira",
     "category": "Liga Portugal 2",
@@ -1768,7 +1616,7 @@
     "link": "https://www.youtube.com/watch?v=pNmh7mGypzw"
   },
   {
-    "id": "wynh540760",
+    "id": "wuci325107",
     "team1": "AS Soliman",
     "team2": "JS Kairouanaise",
     "category": "Ligue 1",
@@ -1776,7 +1624,7 @@
     "link": "https://www.youtube.com/watch?v=QXu2uEMOkxQ&pp=0gcJCU0KAYcqIYzv"
   },
   {
-    "id": "foqs756907",
+    "id": "gqyn608359",
     "team1": "Espérance Tunis",
     "team2": "Avenir Sportif De Gabes",
     "category": "Ligue 1",
@@ -1784,7 +1632,7 @@
     "link": "https://www.youtube.com/watch?v=4x4AIsXZvbY"
   },
   {
-    "id": "uqlo687524",
+    "id": "wzfj794290",
     "team1": "Midtjylland",
     "team2": "Ferencváros TC",
     "category": "Club Friendly Games",
@@ -1792,7 +1640,7 @@
     "link": "https://www.youtube.com/watch?v=42UTorsG7dw"
   },
   {
-    "id": "fqvb720912",
+    "id": "jylt538561",
     "team1": "FK Crvena zvezda",
     "team2": "Red Bull Salzburg",
     "category": "Club Friendly Games",
@@ -1800,7 +1648,7 @@
     "link": "https://www.youtube.com/watch?v=WGaD9W0EFS4"
   },
   {
-    "id": "yxso623658",
+    "id": "nzsm991193",
     "team1": "Viktoria Plzeň",
     "team2": "Sønderjyske Fodbold",
     "category": "Club Friendly Games",
@@ -1808,7 +1656,7 @@
     "link": "https://www.youtube.com/watch?v=TXmbzW3Mq4o"
   },
   {
-    "id": "dexd592668",
+    "id": "cuoo765195",
     "team1": "Puskás Akadémia",
     "team2": "Slovan Liberec",
     "category": "Club Friendly Games",
@@ -1816,12 +1664,20 @@
     "link": "https://youtu.be/ufpPsdVG_X8"
   },
   {
-    "id": "zqwt344490",
+    "id": "iruf453214",
     "team1": "Progreso",
     "team2": "Atlético Tucumán",
     "category": "Club Friendly Games",
     "date": "2026-01-15",
     "link": "https://www.youtube.com/watch?v=XhdEs5TzL6k"
+  },
+  {
+    "id": "gjhc571661",
+    "team1": "Fútbol Club Barcelona",
+    "team2": "Club Atlético de Madrid",
+    "category": "Liga F Moeve",
+    "date": "2026-01-15",
+    "link": "https://www.youtube.com/watch?v=jmBUiG-iWbE"
   },
   {
     "id": "janp114868",
@@ -2472,6 +2328,14 @@
     "link": "https://www.youtube.com/watch?v=qBH8-PyDm3c"
   },
   {
+    "id": "ifen782796",
+    "team1": "Newcastle United",
+    "team2": "Manchester City",
+    "category": "EFL Cup",
+    "date": "2026-01-14",
+    "link": "https://www.youtube.com/watch?v=aYVvq-Okvts"
+  },
+  {
     "id": "cosb531844",
     "team1": "VfB Stuttgart",
     "team2": "Eintracht Frankfurt",
@@ -2534,6 +2398,14 @@
     "category": "Bundesliga",
     "date": "2026-01-12",
     "link": "https://www.youtube.com/watch?v=5aFbNBNn0y8"
+  },
+  {
+    "id": "udwj589928",
+    "team1": "Manchester City",
+    "team2": "Exeter City",
+    "category": "FA Cup",
+    "date": "2026-01-11",
+    "link": "https://www.youtube.com/watch?v=L4xscaBHetU"
   },
   {
     "id": "fxrn807576",
@@ -2606,6 +2478,14 @@
     "category": "Saudi PL",
     "date": "2026-01-09",
     "link": "https://www.youtube.com/watch?v=Sx8O-BinKn4"
+  },
+  {
+    "id": "jtmq979191",
+    "team1": "Manchester City",
+    "team2": "Brighton & Hove Albion",
+    "category": "EPL",
+    "date": "2026-01-08",
+    "link": "https://www.youtube.com/watch?v=14l2uBnAqM0"
   },
   {
     "id": "hprx984012",
@@ -2864,6 +2744,14 @@
     "link": "https://www.youtube.com/watch?v=sbga5ncqTWw"
   },
   {
+    "id": "osyw345913",
+    "team1": "Sunderland",
+    "team2": "Manchester City",
+    "category": "EPL",
+    "date": "2026-01-02",
+    "link": "https://www.youtube.com/watch?v=CkAgYMX3St0"
+  },
+  {
     "id": "egfg989350",
     "team1": "Crystal Palace",
     "team2": "Fulham",
@@ -2950,6 +2838,14 @@
     "category": "Africa Cup of Nations",
     "date": "2025-12-30",
     "link": "https://www.youtube.com/watch?v=-eqn6ZGEjaM"
+  },
+  {
+    "id": "fcyp761018",
+    "team1": "Nottingham Forest",
+    "team2": "Manchester City",
+    "category": "EPL",
+    "date": "2025-12-28",
+    "link": "https://www.youtube.com/watch?v=vvEBsZ-WQkQ"
   },
   {
     "id": "yodq296924",
@@ -3104,6 +3000,14 @@
     "link": "https://www.youtube.com/watch?v=6CFm5aUXIH4"
   },
   {
+    "id": "gza4130413",
+    "team1": "Manchester City",
+    "team2": "West Ham United",
+    "category": "EPL",
+    "date": "2025-12-21",
+    "link": "https://www.youtube.com/watch?v=0-aYx5PHPBM"
+  },
+  {
     "id": "vamv709331",
     "team1": "Real Oviedo",
     "team2": "Celta Vigo",
@@ -3230,6 +3134,30 @@
     "category": "EPL",
     "date": "2025-12-14",
     "link": "https://www.youtube.com/watch?v=exTIhO53Xw4"
+  },
+  {
+    "id": "ixjy804701",
+    "team1": "Fulham",
+    "team2": "Manchester City",
+    "category": "EPL",
+    "date": "2025-12-13",
+    "link": "https://www.youtube.com/watch?v=fR8x8lledU0"
+  },
+  {
+    "id": "zxly661853",
+    "team1": "Manchester City",
+    "team2": "Sunderland",
+    "category": "EPL",
+    "date": "2025-12-13",
+    "link": "https://www.youtube.com/watch?v=JBth7QQf9Vc"
+  },
+  {
+    "id": "qdbf066445",
+    "team1": "Inter Miami CF",
+    "team2": "Vancouver Whitecaps",
+    "category": "MLS",
+    "date": "2025-12-13",
+    "link": "https://www.youtube.com/watch?v=CzZsSW1nUog"
   },
   {
     "id": "gitq834746",
@@ -3632,6 +3560,14 @@
     "link": "https://www.youtube.com/watch?v=H7nrrf3FTUs"
   },
   {
+    "id": "pwxy905604",
+    "team1": "Manchester City",
+    "team2": "Bournemouth",
+    "category": "EPL",
+    "date": "2025-11-03",
+    "link": "https://www.youtube.com/watch?v=Cmqz63yCmvo"
+  },
+  {
     "id": "rrnm952781",
     "team1": "West Ham United",
     "team2": "Newcastle United",
@@ -3790,6 +3726,14 @@
     "category": "Liga Portugal Betclic",
     "date": "2025-11-03",
     "link": "https://www.youtube.com/watch?v=8v-vI86ZYdM"
+  },
+  {
+    "id": "h9983019",
+    "team1": "Inter Miami CF",
+    "team2": "Seattle Sounders FC",
+    "category": "MLS",
+    "date": "2025-09-17",
+    "link": "https://www.youtube.com/watch?v=ewSjMbKgtaA"
   },
   {
     "id": "h7657153",
@@ -3960,12 +3904,68 @@
     "link": "https://www.youtube.com/watch?v=azgX7A-GReM"
   },
   {
+    "id": "gzor045760",
+    "team1": "Inter Miami CF",
+    "team2": "Tigres UANL",
+    "category": "Leagues Cup",
+    "date": "2025-08-20",
+    "link": "https://www.youtube.com/watch?v=JSwaY1v-keM"
+  },
+  {
     "id": "ljqy853208",
     "team1": "Al Nassr",
     "team2": "Al Ittihad",
     "category": "Super Cup",
     "date": "2025-08-20",
     "link": "https://www.youtube.com/watch?v=w14rnIajDX4"
+  },
+  {
+    "id": "dawa703851",
+    "team1": "Inter Miami CF",
+    "team2": "FC Porto",
+    "category": "FIFA Club World Cup",
+    "date": "2025-07-18",
+    "link": "https://www.youtube.com/watch?v=wo0H4Q7aj80"
+  },
+  {
+    "id": "tsoa491021",
+    "team1": "Manchester City",
+    "team2": "Wydad Casablanca",
+    "category": "FIFA Club World Cup",
+    "date": "2025-07-18",
+    "link": "https://www.youtube.com/watch?v=BUMNdY4jnGA"
+  },
+  {
+    "id": "jfgz969802",
+    "team1": "Manchester City",
+    "team2": "Al-Ain",
+    "category": "FIFA Club World Cup",
+    "date": "2025-07-18",
+    "link": "https://www.youtube.com/watch?v=OXmJzoZ1vJg"
+  },
+  {
+    "id": "qngy032844",
+    "team1": "Inter Miami CF",
+    "team2": "Palmeiras",
+    "category": "FIFA Club World Cup",
+    "date": "2025-07-18",
+    "link": "https://www.youtube.com/watch?v=pG0ONhG-GQ0"
+  },
+  {
+    "id": "vpnv507019",
+    "team1": "Paris Saint-Germain",
+    "team2": "Inter Miami CF",
+    "category": "FIFA Club World Cup",
+    "date": "2025-07-18",
+    "link": "https://www.youtube.com/watch?v=2eY74BW4SbE"
+  },
+  {
+    "id": "cnrj031537",
+    "team1": "Manchester City",
+    "team2": "Al-Hilal",
+    "category": "FIFA Club World Cup",
+    "date": "2025-07-18",
+    "link": "https://www.youtube.com/watch?v=c_I6CJkS4aQ"
   },
   {
     "id": "unzb970247",
@@ -4422,5 +4422,13 @@
     "category": "UCL",
     "date": "2024-11-07",
     "link": "https://www.youtube.com/watch?v=eYLyPE1Uy0M"
+  },
+  {
+    "id": "qell109929",
+    "team1": "Sporting CP",
+    "team2": "Manchester City",
+    "category": "UCL",
+    "date": "2024-11-06",
+    "link": "https://www.youtube.com/watch?v=8oC50pKc6Vc"
   }
 ]
