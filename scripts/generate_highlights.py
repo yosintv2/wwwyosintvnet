@@ -53,8 +53,8 @@ def is_priority_match(item):
             return False
             
     # Check if a high-profile team is playing
-    is_featured = any(team in t1 for team in FEATURED_TEAMS) or \
-                  any(team in t2 for team in FEATURED_TEAMS)
+    is_featured = any(team.lower() in t1 for team in FEATURED_TEAMS) or \
+                  any(team.lower() in t2 for team in FEATURED_TEAMS)
     
     return is_featured
 
@@ -86,15 +86,19 @@ async def process_match(session, match):
     if not highlights: 
         return None
 
+    # Sort through all available highlights for this match
     for h in highlights:
         subtitle = h.get('subtitle', '').lower()
         
         # 1. Relevance: Only full highlights or extended versions
         is_relevant = "highlights" in subtitle or "extended" in subtitle
         
-        # 2. Global Check: Skip videos restricted to specific countries
-        for_countries = h.get('forCountries', [])
-        is_global = not for_countries or len(for_countries) == 0
+        # 2. STRICT GLOBAL CHECK: 
+        # forCountries must be either missing, None, or an empty list [].
+        # If it contains even one country code (like "BA", "HR"), we REJECT it.
+        for_countries = h.get('forCountries')
+        is_restricted = isinstance(for_countries, list) and len(for_countries) > 0
+        is_global = not is_restricted
 
         if is_relevant and is_global:
             url = h.get('url', '') or h.get('sourceUrl', '')
@@ -103,6 +107,7 @@ async def process_match(session, match):
             yt_match = YT_REGEX.search(url)
             if yt_match:
                 video_id = yt_match.group(1)
+                # Success: We found a global video, return it immediately
                 return {
                     "id": generate_custom_id(),
                     "team1": clean_team_name(match['homeTeam']['name']),
@@ -111,12 +116,13 @@ async def process_match(session, match):
                     "date": datetime.fromtimestamp(match['startTimestamp']).strftime('%Y-%m-%d'),
                     "link": f"https://www.youtube.com/watch?v={video_id}"
                 }
+    
+    # If the loop finishes and no video passed the "is_global" check, return None
     return None
 
 # --- MAIN ENGINE ---
 
 async def main():
-    # 1. Load Existing Data
     existing_data = []
     if os.path.exists(FILE_PATH):
         try:
@@ -127,7 +133,6 @@ async def main():
             existing_data = []
 
     async with AsyncSession() as session:
-        # Check Yesterday and Today to catch late-night games
         now = datetime.now()
         dates = [(now - timedelta(days=1)).strftime('%Y-%m-%d'), now.strftime('%Y-%m-%d')]
         
@@ -135,10 +140,8 @@ async def main():
         for d in dates: 
             all_events.extend(await get_matches(session, d))
         
-        # Process only finished matches
         finished = [e for e in all_events if e.get('status', {}).get('type') in ['finished', 'ended']]
         
-        # 2. Fetch Highlights (Batching to prevent IP bans)
         new_highlights = []
         batch_size = 10
         for i in range(0, len(finished), batch_size):
@@ -147,7 +150,7 @@ async def main():
             new_highlights.extend([r for r in batch_res if r])
             await asyncio.sleep(1)
 
-        # 3. Merge and Deduplicate
+        # Merge and Deduplicate
         combined = new_highlights + existing_data
         unique_list = []
         seen_links = set()
@@ -155,29 +158,25 @@ async def main():
         for item in combined:
             link = item.get('link')
             if link and link not in seen_links:
-                # Cleanup legacy keys if present
                 if 'isPriority' in item: 
                     del item['isPriority']
                 unique_list.append(item)
                 seen_links.add(link)
 
-        # 4. Final Advanced Sorting
+        # Final Advanced Sorting
         def sort_key(x):
-            # First criteria: Is it a main priority match? (Boolean 1/0)
-            # Second criteria: Date (Newest first)
             priority = is_priority_match(x)
             return (priority, x.get('date', '1970-01-01'))
 
         unique_list.sort(key=sort_key, reverse=True)
 
-        # 5. Save to File
         os.makedirs('api', exist_ok=True)
         with open(FILE_PATH, 'w', encoding='utf-8') as f:
             json.dump(unique_list, f, indent=2, ensure_ascii=False)
 
         print(f"🏁 Success! API updated with {len(unique_list)} items.")
-        print(f"🚫 Strict Filter: Categories like 'Femminile' or 'Liga F' are demoted.")
-        print(f"🌍 Link Check: All videos are global/unrestricted.")
+        print(f"🚫 Geo-Restriction: Blocked all videos with 'forCountries' data.")
+        print(f"🔝 Priority: Featured senior teams moved to top.")
 
 if __name__ == "__main__":
     asyncio.run(main())
