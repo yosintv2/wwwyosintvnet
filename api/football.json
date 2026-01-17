@@ -1,36 +1,6 @@
 {
     "matches": [
         {
-            "team1": "Monaco",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9829.png",
-            "team2": "Lorient",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8689.png",
-            "league": "Ligue 1",
-            "start": "2026-01-17T03:00:00+09:00",
-            "duration": 2.2,
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=monaco"
-        },
-        {
-            "team1": "Espanyol",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8558.png",
-            "team2": "Girona",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/7732.png",
-            "league": "LaLiga",
-            "start": "2026-01-17T05:00:00+09:00",
-            "duration": 2.2,
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=espanyol"
-        },
-        {
-            "team1": "PSG",
-            "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/9847.png",
-            "team2": "Lille",
-            "team2_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/8639.png",
-            "league": "Ligue 1",
-            "start": "2026-01-17T05:00:00+09:00",
-            "duration": 2.2,
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=psg"
-        },
-        {
             "team1": "Man United",
             "team1_logo": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "team2": "Man City",
