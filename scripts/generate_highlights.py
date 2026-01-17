@@ -16,7 +16,7 @@ FEATURED_TEAMS = [
 
 # Keywords that disqualify a team from being "Main Team" priority
 EXCLUSION_KEYWORDS = [
-    "next gen", "castilla", " b", " c", " u21", " u23", " u19", " u18", 
+    "next gen"," u20", "castilla", " b", " c", " u21", " u23", " u19", " u18", 
     " youth", " women", "(w)", " academy"
 ]
 
