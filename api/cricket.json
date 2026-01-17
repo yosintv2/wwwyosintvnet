@@ -57,7 +57,7 @@
             "team1_logo": "https://cdn.yosintv.link/cricket.png",
             "league": "Women's Premier League",
             "start": "2026-01-17T18:30:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=wipl",
+            "details_url": "https://hlsplayers.pages.dev/player3?url=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
             "duration": 5
         },
         {
@@ -67,7 +67,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/royalchallengersbengaluru.png",
             "league": "Women's Premier League",
             "start": "2026-01-17T23:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=wipl",
+            "details_url": "https://hlsplayers.pages.dev/player3?url=https://live-en.aisports.cc/moviebox/device01/playlist.m3u8",
             "duration": 5
         }
     ]
