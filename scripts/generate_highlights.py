@@ -14,6 +14,12 @@ FEATURED_TEAMS = [
     "portugal", "argentina", "brazil", "spain", "england", "france", "inter", "milan", "roma"
 ]
 
+# Keywords that disqualify a team from being "Main Team" priority
+EXCLUSION_KEYWORDS = [
+    "next gen", "castilla", " b", " c", " u21", " u23", " u19", " u18", 
+    " youth", " women", "(w)", " academy"
+]
+
 API_BASE = "https://api.sofascore.com/api/v1"
 FILE_PATH = 'api/highlights.json'
 
@@ -22,6 +28,23 @@ def generate_custom_id():
 
 def clean_team_name(name):
     return name.replace('-', ' ').replace('FC', '').replace('fc', '').strip()
+
+def is_main_priority_team(team_name):
+    """
+    Checks if a team is a priority team AND ensures it is the main senior team.
+    """
+    name_lower = team_name.lower()
+    
+    # 1. Check if the team is in our featured list
+    is_featured = any(team in name_lower for team in FEATURED_TEAMS)
+    if not is_featured:
+        return False
+        
+    # 2. Check if the name contains any exclusion keywords (B teams, Youth, Women, etc.)
+    has_exclusion = any(word in name_lower for word in EXCLUSION_KEYWORDS)
+    
+    # It is only a priority if it is featured AND NOT excluded
+    return is_featured and not has_exclusion
 
 async def get_matches(session, date_str):
     url = f"{API_BASE}/sport/football/scheduled-events/{date_str}"
@@ -65,7 +88,7 @@ async def process_match(session, match):
     return None
 
 async def main():
-    # 1. Load Existing Data (Prevents deletion of 2025 data)
+    # 1. Load Existing Data
     existing_data = []
     if os.path.exists(FILE_PATH):
         try:
@@ -79,9 +102,7 @@ async def main():
         dates = [(now - timedelta(days=1)).strftime('%Y-%m-%d'), now.strftime('%Y-%m-%d')]
         
         all_events = []
-        for d in dates: 
-            all_events.extend(await get_matches(session, d))
-
+        for d in dates: all_events.extend(await get_matches(session, d))
         finished = [e for e in all_events if e.get('status', {}).get('type') in ['finished', 'ended']]
         
         # 2. Fetch New Highlights
@@ -93,7 +114,7 @@ async def main():
             new_highlights.extend([r for r in batch_res if r])
             await asyncio.sleep(1)
 
-        # 3. Merge and Deduplicate by Link
+        # 3. Merge and Deduplicate
         combined = new_highlights + existing_data
         unique_list = []
         seen_links = set()
@@ -101,37 +122,29 @@ async def main():
         for item in combined:
             link = item.get('link')
             if link and link not in seen_links:
-                # Remove any existing isPriority keys from old data if they exist
-                if 'isPriority' in item:
-                    del item['isPriority']
+                # Remove legacy priority tags from JSON
+                if 'isPriority' in item: del item['isPriority']
                 unique_list.append(item)
                 seen_links.add(link)
 
-        # 4. SORTING LOGIC (Internal only)
-        # We define a helper to check priority without saving the key to the JSON
+        # 4. ADVANCED SORTING LOGIC
         def sort_key(x):
-            t1 = x.get('team1', '').lower()
-            t2 = x.get('team2', '').lower()
-            # Check if match involves featured teams
-            is_featured = any(team in t1 or team in t2 for team in FEATURED_TEAMS)
-            # Sort by Priority (True/False) then by Date (Newest)
-            return (is_featured, x.get('date', '1970-01-01'))
+            # Check Home and Away team for "Main Team" priority
+            t1_priority = is_main_priority_team(x.get('team1', ''))
+            t2_priority = is_main_priority_team(x.get('team2', ''))
+            
+            is_featured_match = t1_priority or t2_priority
+            return (is_featured_match, x.get('date', '1970-01-01'))
 
         unique_list.sort(key=sort_key, reverse=True)
 
-        # 5. Final Clean and Save (No isPriority in output)
+        # 5. Save Everything (No isPriority key in output)
         os.makedirs('api', exist_ok=True)
         with open(FILE_PATH, 'w', encoding='utf-8') as f:
-            # Final verification that no isPriority field exists
-            clean_output = []
-            for item in unique_list:
-                if 'isPriority' in item: del item['isPriority']
-                clean_output.append(item)
-            
-            json.dump(clean_output, f, indent=2, ensure_ascii=False)
+            json.dump(unique_list, f, indent=2, ensure_ascii=False)
 
-        print(f"🏁 Success! Clean API generated with {len(clean_output)} items.")
-        print(f"✅ Priority teams pushed to top but 'isPriority' key was not generated.")
+        print(f"🏁 Success! Clean API generated with {len(unique_list)} items.")
+        print(f"✅ Filtered out B-teams, Youth, and Women's teams from priority list.")
 
 if __name__ == "__main__":
     asyncio.run(main())
