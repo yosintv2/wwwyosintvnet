@@ -27,7 +27,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/noakhaliexpress.png",
             "league": "Bangladesh Premier League",
             "start": "2026-01-18T16:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=rangpurriders",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
         },
         {
@@ -37,7 +37,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/dhakacapitals.png",
             "league": "Bangladesh Premier League",
             "start": "2026-01-18T21:00:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=chattogramroyals",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bpl",
             "duration": 5
         },
         {
@@ -47,7 +47,7 @@
             "team2_logo": "https://aimages.willow.tv/teamLogos/sydneysixers.png",
             "league": "Big Bash League",
             "start": "2026-01-18T17:15:00+09:00",
-            "details_url": "https://www.pasuwadoseisei.com/?yosintv=brisbaneheat",
+            "details_url": "https://www.pasuwadoseisei.com/?yosintv=bbl",
             "duration": 5
         }
     ]
